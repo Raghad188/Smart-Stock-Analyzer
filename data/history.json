@@ -1,0 +1,7 @@
+[
+  {"id":"h1","stock":"أرامكو السعودية","company":"Saudi Aramco","date":"29 يونيو، 10:24","prediction":"إيجابي","confidence":91,"result":"تحقق +1.8%"},
+  {"id":"h2","stock":"مصرف الراجحي","company":"Al Rajhi Bank","date":"28 يونيو، 12:05","prediction":"إيجابي","confidence":94,"result":"تحقق +2.1%"},
+  {"id":"h3","stock":"سابك","company":"SABIC","date":"27 يونيو، 09:42","prediction":"سلبي","confidence":78,"result":"تحقق -0.9%"},
+  {"id":"h4","stock":"إس تي سي","company":"stc","date":"26 يونيو، 14:18","prediction":"إيجابي","confidence":86,"result":"قيد المتابعة"},
+  {"id":"h5","stock":"موبايلي","company":"Mobily","date":"25 يونيو، 11:31","prediction":"محايد","confidence":74,"result":"تحقق +0.1%"}
+]

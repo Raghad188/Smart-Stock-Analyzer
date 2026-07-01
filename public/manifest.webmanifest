@@ -1,0 +1,17 @@
+{
+  "name": "محلل الأسهم الذكي",
+  "short_name": "محلل الأسهم",
+  "description": "منصة ذكية لتحليل أخبار السوق السعودي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050d19",
+  "theme_color": "#071426",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
